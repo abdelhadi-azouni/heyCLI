@@ -1,2 +1,1 @@
-# heyCLI
-command lines in natural language 
+## repo moved here https://github.com/HeyCLI/heyCLI_client
